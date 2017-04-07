@@ -2,8 +2,11 @@
   "name": "todo-manager-frontend",
   "version": "1.0.0",
   "dependencies": {
+  },
+  "devDependencies": {
     "grunt-connect-proxy": "^0.2.0",
     "grunt-contrib-connect": "^1.0.2",
-    "grunt-contrib-watch": "^1.0.0"
+    "grunt-contrib-watch": "^1.0.0",
+    "bower": "^1.8.0"
   }
 }

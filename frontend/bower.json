@@ -1,0 +1,22 @@
+{
+  "name": "todo-manager-frontend",
+  "description": "",
+  "main": "",
+  "authors": [
+    "FreeFly19 <wmsystem2008@yandex.ru>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Nata01/todo-manager",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "^3.3.7"
+  }
+}
